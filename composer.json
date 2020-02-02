@@ -1,0 +1,17 @@
+{
+    "name": "thomasisok/session",
+    "description": "Basic session data manager for PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Thomas Andrews",
+            "email": "tom.g.andrews@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr4": {
+            "thomasisok/session/": "src/"
+        }
+    }
+}
