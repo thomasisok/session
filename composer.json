@@ -1,5 +1,6 @@
 {
     "name": "thomasisok/session",
+    "version": "0.0.1",
     "description": "Basic session data manager for PHP",
     "type": "project",
     "authors": [
