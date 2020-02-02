@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr4": {
-            "thomasisok/session/": "src/"
+            "thomasisok\\Session\\": "src/"
         }
     }
 }
